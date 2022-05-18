@@ -1,0 +1,80 @@
+2022-05-15 09:37:34,280 - SDET -INFO - got URL
+2022-05-15 09:37:36,130 - SDET -INFO - LoggIn on succesful
+2022-05-15 09:37:36,147 - SDET -INFO - Login test passed
+2022-05-15 12:37:04,783 - SDET -INFO - got URL
+2022-05-15 12:37:06,306 - SDET -INFO - LoggIn on succesful
+2022-05-15 12:37:06,337 - SDET -INFO - Login test passed
+2022-05-15 12:37:32,249 - SDET -INFO - got URL
+2022-05-15 12:37:33,806 - SDET -INFO - LoggIn on succesful
+2022-05-15 12:37:33,830 - SDET -INFO - Login test passed
+2022-05-15 12:37:55,558 - SDET -INFO - got URL
+2022-05-15 12:37:57,278 - SDET -INFO - LoggIn on succesful
+2022-05-15 12:37:57,304 - SDET -INFO - Login test passed
+2022-05-15 13:49:16,210 - SDET -INFO - got URL
+2022-05-15 13:49:17,842 - SDET -INFO - LoggIn on succesful
+2022-05-15 13:49:17,859 - SDET -INFO - Login test passed
+2022-05-15 14:18:35,293 - SDET -INFO - got URL
+2022-05-15 14:18:36,965 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:18:36,985 - SDET -INFO - Login test passed
+2022-05-15 14:19:14,812 - SDET -INFO - got URL
+2022-05-15 14:19:16,676 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:22:21,947 - SDET -INFO - got URL
+2022-05-15 14:24:08,187 - SDET -INFO - got URL
+2022-05-15 14:24:09,569 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:24:09,592 - SDET -INFO - Login test passed
+2022-05-15 14:24:50,588 - SDET -INFO - got URL
+2022-05-15 14:24:52,209 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:25:30,362 - SDET -INFO - got URL
+2022-05-15 14:26:23,668 - SDET -INFO - got URL
+2022-05-15 14:26:25,173 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:27:29,201 - SDET -INFO - got URL
+2022-05-15 14:27:30,636 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:29:19,250 - SDET -INFO - got URL
+2022-05-15 14:29:20,845 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:29:20,863 - SDET -INFO - Login test passed
+2022-05-15 14:40:38,935 - SDET -INFO - got URL
+2022-05-15 14:40:40,679 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:43:50,503 - SDET -INFO - got URL
+2022-05-15 14:43:51,935 - SDET -INFO - LoggIn on succesful
+2022-05-15 14:44:44,823 - SDET -INFO - got URL
+2022-05-15 14:44:46,498 - SDET -INFO - LoggIn on succesful
+2022-05-15 15:01:37,127 - SDET -INFO - got URL
+2022-05-15 15:01:38,577 - SDET -INFO - LoggIn on succesful
+2022-05-15 19:26:20,904 - SDET -INFO - got URL
+2022-05-15 19:26:22,639 - SDET -INFO - LoggIn on succesful
+2022-05-15 19:26:22,663 - SDET -INFO - Login test passed
+2022-05-15 19:39:35,954 - SDET -INFO - got URL
+2022-05-15 19:39:37,628 - SDET -INFO - LoggIn on succesful
+2022-05-15 19:39:37,651 - SDET -INFO - Login test passed
+2022-05-15 22:33:02,678 - SDET -INFO - got URL
+2022-05-15 22:33:04,050 - SDET -INFO - LoggIn on succesful
+2022-05-15 22:33:30,913 - SDET -INFO - New customer login succesfull
+2022-05-15 22:34:25,961 - SDET -INFO - got URL
+2022-05-15 22:34:27,702 - SDET -INFO - LoggIn on succesful
+2022-05-15 22:34:52,387 - SDET -INFO - got URL
+2022-05-15 22:34:54,118 - SDET -INFO - LoggIn on succesful
+2022-05-15 22:34:54,141 - SDET -INFO - Login test passed
+2022-05-16 18:34:20,956 - SDET -INFO - got URL
+2022-05-16 18:34:22,479 - SDET -INFO - LoggIn on succesful
+2022-05-16 18:34:22,512 - SDET -INFO - Login test passed
+2022-05-16 18:34:51,183 - SDET -INFO - New customer login succesfull
+2022-05-16 18:41:42,279 - SDET -INFO - got URL
+2022-05-16 18:41:43,627 - SDET -INFO - LoggIn on succesful
+2022-05-16 18:41:43,653 - SDET -INFO - Login test passed
+2022-05-16 18:42:11,603 - SDET -INFO - New customer login succesfull
+2022-05-16 18:42:44,716 - SDET -INFO - got URL
+2022-05-16 18:42:46,291 - SDET -INFO - LoggIn on succesful
+2022-05-16 18:42:46,313 - SDET -INFO - Login test passed
+2022-05-16 18:43:13,894 - SDET -INFO - New customer login succesfull
+2022-05-17 17:38:57,551 - SDET -INFO - got URL
+2022-05-17 17:38:58,930 - SDET -INFO - LoggIn on succesful
+2022-05-17 17:38:58,960 - SDET -INFO - Login test passed
+2022-05-17 17:41:20,052 - SDET -INFO - got URL
+2022-05-17 17:41:21,620 - SDET -INFO - LoggIn on succesful
+2022-05-17 17:41:21,657 - SDET -INFO - Login test passed
+2022-05-17 17:46:14,751 - SDET -INFO - got URL
+2022-05-17 17:46:16,236 - SDET -INFO - LoggIn on succesful
+2022-05-17 17:46:16,263 - SDET -INFO - Login test passed
+2022-05-17 17:46:51,117 - SDET -INFO - got URL
+2022-05-17 17:46:53,217 - SDET -INFO - LoggIn on succesful
+2022-05-17 17:46:53,246 - SDET -INFO - Login test passed
